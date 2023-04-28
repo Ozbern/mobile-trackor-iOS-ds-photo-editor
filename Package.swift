@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DSPhotoEditorSDK",
-            url: "https://github.com/Ozbern/mobile-trackor-iOS-ds-photo-editor/releases/download/2.3.10/DSPhotoEditorSDK.xcframework.zip",
-            checksum: "270acb4beb5e3c0f86c4ce31cdedb9d1f3c4dea055a8ad0cfa49cf589d7835ad"),
+            url: "https://github.com/Ozbern/mobile-trackor-iOS-ds-photo-editor/releases/download/2.3.11/DSPhotoEditorSDK.xcframework.zip",
+            checksum: "44fc5db22821245b43544e21b72d8344a5818c23e28125a42fd5b5b2e9a25472"),
     ]
 )
